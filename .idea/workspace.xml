@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf41868-9b3e-4207-a0de-1af355d3bc5a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/skillstrom/general/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/skillstrom/general/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/skillstrom/general/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/skillstrom/general/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/skillstrom/general/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/skillstrom/general/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/skillstrom/general/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/skillstrom/general/Lion.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bf41868-9b3e-4207-a0de-1af355d3bc5a" name="Changes" comment="Update 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +49,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678903423606</updated>
-      <workItem from="1678903424749" duration="3166000" />
+      <workItem from="1678903424749" duration="3466000" />
     </task>
+    <task id="LOCAL-00001" summary="Update 2">
+      <created>1678906687883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678906687883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="6c9e0888-31b5-4437-ad25-83451c192f49">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Casey/IdeaProjects/AnimalsInheritance/src/com/skillstrom/general" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6c9e0888-31b5-4437-ad25-83451c192f49" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2" />
   </component>
 </project>
